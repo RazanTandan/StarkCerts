@@ -1,4 +1,4 @@
-starknet-devnet 
+starknet-devnet --seed=0
 
 Deploy it on DevNet
 
